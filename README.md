@@ -20,6 +20,5 @@ Softmax();
 ![image](https://github.com/XPping/cudnn/raw/master/mnist_lenet/result screenshot/result.png)
 
 
-
 Reference
 https://github.com/tbennun/cudnn-training.git
