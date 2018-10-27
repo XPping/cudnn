@@ -17,8 +17,9 @@ FullyConnect(weight_size=10);
 Softmax();
 
 # Result screenshot
-![image](https://github.com/XPping/cudnn/raw/master/mnist_lenet/result screenshot/result.png)
 
+![image](https://github.com/XPping/cudnn/raw/master/mnist_lenet/result screenshot/result.png)
+![image](https://github.com/XPping/pytorch-GAN/raw/master/images/dcgan_13_fake.png)
 
 # Reference
 https://github.com/tbennun/cudnn-training.git
