@@ -22,6 +22,6 @@ Softmax();
 
 # Reference
 https://github.com/tbennun/cudnn-training.git  
-#Rename parameters named way in order to better understand the code;  
+#Rename parameters named way and clean up code structure in order to better understand the code;  
 #Add two relu for convolution(include ForwardPropagation and BackPropagation);  
 #Echo train iter error when training.  
